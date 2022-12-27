@@ -32,7 +32,7 @@ for (const prop in person) {
   console.log(prop);
 }
 
-//prtotype
+//prototype
 
 const baseHumanStats = {
   feet: 2,
